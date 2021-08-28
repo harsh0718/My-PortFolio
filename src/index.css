@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Josefin Sans", sans-serif;
+}
+.navbar {
+  background-color: #fff !important;
+}
+.navbar-brand {
+  color: #e63e6d !important;
+}
+.theme_color {
+  color: #e63e6d !important;
+}
+.navbar a:hover {
+  color: #e63e6d !important;
+}
+.active_menu {
+  font-weight: bolder;
+  border-bottom: 1px solid #e63e6d;
+  color: #e63e6d !important;
+}
+
+.home_img {
+  width: 450px;
+  height: 450px;
+}
+.card_imgs {
+  width: 286px !important;
+  height: 222px !important;
+}
+.form {
+}
